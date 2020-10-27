@@ -1,0 +1,55 @@
+button {
+    width: 300px;
+    font-size: 20px;
+    border: none;
+    cursor:pointer;
+    background: rgb(201, 29, 98);
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 40px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-android {
+    color: rgb(4, 83, 16);
+    font-size: 50px !important;
+}
+
+.custom-delete {
+    color: red;
+    font-size: 60px !important;
+    
+}
+
+.custom-cloud {
+    color: rgb(37, 180, 212);
+    font-size: 80px !important;
+}
+
+.custom-people {
+    color: rgb(201, 29, 29);
+    font-size: 100px !important;
+}
+.custom-send {
+    color: cadetblue;
+    font-size: 70px !important;
+}
+.custom-edit {
+    color: black ;
+    font-size: 100px !important;
+}
+.custom-groups {
+    color: blueviolet;
+    font-size: 50px !important;
+}
+.custom-add-box {
+    color: gold;
+    font-size: 50px !important;
+}
+.custom-alarm {
+    color: #fff;
+    font-size: 50px !important;
+}
